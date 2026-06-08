@@ -65,6 +65,12 @@ namespace EstruturaRep
 
         }
 
+        private void sobreToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            sobre sobre = new sobre();
+            sobre.Show();
+        }
+
         private void fatorialToolStripMenuItem_Click(object sender, EventArgs e)
         {
             Fatorial tela5 = new Fatorial();

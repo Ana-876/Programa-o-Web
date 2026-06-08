@@ -76,6 +76,12 @@ namespace EstruturaRep
             tela5.Show();
         }
 
+        private void sobreToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            sobre sobre = new sobre();
+            sobre.Show();
+        }
+
         private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
 

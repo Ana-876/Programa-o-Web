@@ -1,50 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\anacl\\Downloads\\ProgWeb\\EstruturaRep\\",
+  "WorkspaceRootPath": "D:\\suhr etecvav\\2 ano\\DS\\EstruturaRep\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C8F21E9D-18FF-4E8E-983A-09DFC829702F}|EstruturaRep.csproj|C:\\Users\\anacl\\Downloads\\ProgWeb\\EstruturaRep\\fatorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{C8F21E9D-18FF-4E8E-983A-09DFC829702F}|EstruturaRep.csproj|d:\\suhr etecvav\\2 ano\\ds\\estruturarep\\movertexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8F21E9D-18FF-4E8E-983A-09DFC829702F}|EstruturaRep.csproj|solutionrelative:movertexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8F21E9D-18FF-4E8E-983A-09DFC829702F}|EstruturaRep.csproj|d:\\suhr etecvav\\2 ano\\ds\\estruturarep\\movertexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C8F21E9D-18FF-4E8E-983A-09DFC829702F}|EstruturaRep.csproj|solutionrelative:movertexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8F21E9D-18FF-4E8E-983A-09DFC829702F}|EstruturaRep.csproj|d:\\suhr etecvav\\2 ano\\ds\\estruturarep\\textovertical.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8F21E9D-18FF-4E8E-983A-09DFC829702F}|EstruturaRep.csproj|solutionrelative:textovertical.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8F21E9D-18FF-4E8E-983A-09DFC829702F}|EstruturaRep.csproj|d:\\suhr etecvav\\2 ano\\ds\\estruturarep\\textovertical.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C8F21E9D-18FF-4E8E-983A-09DFC829702F}|EstruturaRep.csproj|solutionrelative:textovertical.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8F21E9D-18FF-4E8E-983A-09DFC829702F}|EstruturaRep.csproj|d:\\suhr etecvav\\2 ano\\ds\\estruturarep\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C8F21E9D-18FF-4E8E-983A-09DFC829702F}|EstruturaRep.csproj|solutionrelative:email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8F21E9D-18FF-4E8E-983A-09DFC829702F}|EstruturaRep.csproj|d:\\suhr etecvav\\2 ano\\ds\\estruturarep\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8F21E9D-18FF-4E8E-983A-09DFC829702F}|EstruturaRep.csproj|solutionrelative:email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8F21E9D-18FF-4E8E-983A-09DFC829702F}|EstruturaRep.csproj|d:\\suhr etecvav\\2 ano\\ds\\estruturarep\\fatorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8F21E9D-18FF-4E8E-983A-09DFC829702F}|EstruturaRep.csproj|solutionrelative:fatorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8F21E9D-18FF-4E8E-983A-09DFC829702F}|EstruturaRep.csproj|d:\\suhr etecvav\\2 ano\\ds\\estruturarep\\fatorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{C8F21E9D-18FF-4E8E-983A-09DFC829702F}|EstruturaRep.csproj|solutionrelative:fatorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8F21E9D-18FF-4E8E-983A-09DFC829702F}|EstruturaRep.csproj|C:\\Users\\anacl\\Downloads\\ProgWeb\\EstruturaRep\\intervalo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C8F21E9D-18FF-4E8E-983A-09DFC829702F}|EstruturaRep.csproj|solutionrelative:intervalo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8F21E9D-18FF-4E8E-983A-09DFC829702F}|EstruturaRep.csproj|c:\\users\\anacl\\downloads\\progweb\\estruturarep\\fibonacci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8F21E9D-18FF-4E8E-983A-09DFC829702F}|EstruturaRep.csproj|solutionrelative:fibonacci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8F21E9D-18FF-4E8E-983A-09DFC829702F}|EstruturaRep.csproj|c:\\users\\anacl\\downloads\\progweb\\estruturarep\\tabuada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C8F21E9D-18FF-4E8E-983A-09DFC829702F}|EstruturaRep.csproj|solutionrelative:tabuada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8F21E9D-18FF-4E8E-983A-09DFC829702F}|EstruturaRep.csproj|C:\\Users\\anacl\\Downloads\\ProgWeb\\EstruturaRep\\Listagem,cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8F21E9D-18FF-4E8E-983A-09DFC829702F}|EstruturaRep.csproj|solutionrelative:Listagem,cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8F21E9D-18FF-4E8E-983A-09DFC829702F}|EstruturaRep.csproj|c:\\users\\anacl\\downloads\\progweb\\estruturarep\\fibonacci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C8F21E9D-18FF-4E8E-983A-09DFC829702F}|EstruturaRep.csproj|solutionrelative:fibonacci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8F21E9D-18FF-4E8E-983A-09DFC829702F}|EstruturaRep.csproj|C:\\Users\\anacl\\Downloads\\ProgWeb\\EstruturaRep\\Tabuada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8F21E9D-18FF-4E8E-983A-09DFC829702F}|EstruturaRep.csproj|solutionrelative:Tabuada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8F21E9D-18FF-4E8E-983A-09DFC829702F}|EstruturaRep.csproj|c:\\users\\anacl\\downloads\\progweb\\estruturarep\\tabuada.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8F21E9D-18FF-4E8E-983A-09DFC829702F}|EstruturaRep.csproj|solutionrelative:tabuada.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8F21E9D-18FF-4E8E-983A-09DFC829702F}|EstruturaRep.csproj|c:\\users\\anacl\\downloads\\progweb\\estruturarep\\intervalo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8F21E9D-18FF-4E8E-983A-09DFC829702F}|EstruturaRep.csproj|solutionrelative:intervalo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8F21E9D-18FF-4E8E-983A-09DFC829702F}|EstruturaRep.csproj|C:\\Users\\anacl\\Downloads\\ProgWeb\\EstruturaRep\\listagem,cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C8F21E9D-18FF-4E8E-983A-09DFC829702F}|EstruturaRep.csproj|solutionrelative:listagem,cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8F21E9D-18FF-4E8E-983A-09DFC829702F}|EstruturaRep.csproj|C:\\Users\\anacl\\Downloads\\ProgWeb\\EstruturaRep\\Fatorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8F21E9D-18FF-4E8E-983A-09DFC829702F}|EstruturaRep.csproj|solutionrelative:Fatorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,145 +42,107 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Listagem,cs.cs",
-              "DocumentMoniker": "C:\\Users\\anacl\\Downloads\\ProgWeb\\EstruturaRep\\Listagem,cs.cs",
-              "RelativeDocumentMoniker": "Listagem,cs.cs",
-              "ToolTip": "C:\\Users\\anacl\\Downloads\\ProgWeb\\EstruturaRep\\Listagem,cs.cs",
-              "RelativeToolTip": "Listagem,cs.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "MoverTexto.cs",
+              "DocumentMoniker": "D:\\suhr etecvav\\2 ano\\DS\\EstruturaRep\\MoverTexto.cs",
+              "RelativeDocumentMoniker": "MoverTexto.cs",
+              "ToolTip": "D:\\suhr etecvav\\2 ano\\DS\\EstruturaRep\\MoverTexto.cs",
+              "RelativeToolTip": "MoverTexto.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAQwE4AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-26T15:24:01.973Z",
+              "WhenOpened": "2026-06-08T17:04:47.029Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Fatorial.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\anacl\\Downloads\\ProgWeb\\EstruturaRep\\Fatorial.cs",
-              "RelativeDocumentMoniker": "Fatorial.cs",
-              "ToolTip": "C:\\Users\\anacl\\Downloads\\ProgWeb\\EstruturaRep\\Fatorial.cs [Design]",
-              "RelativeToolTip": "Fatorial.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-26T14:07:02.52Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Intervalo.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\anacl\\Downloads\\ProgWeb\\EstruturaRep\\Intervalo.cs",
-              "RelativeDocumentMoniker": "Intervalo.cs",
-              "ToolTip": "C:\\Users\\anacl\\Downloads\\ProgWeb\\EstruturaRep\\Intervalo.cs [Design]",
-              "RelativeToolTip": "Intervalo.cs [Design]",
+              "Title": "MoverTexto.cs [Design]",
+              "DocumentMoniker": "D:\\suhr etecvav\\2 ano\\DS\\EstruturaRep\\MoverTexto.cs",
+              "RelativeDocumentMoniker": "MoverTexto.cs",
+              "ToolTip": "D:\\suhr etecvav\\2 ano\\DS\\EstruturaRep\\MoverTexto.cs [Design]",
+              "RelativeToolTip": "MoverTexto.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-26T14:11:49.075Z",
+              "WhenOpened": "2026-06-08T16:48:59.428Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Fibonacci.cs",
-              "DocumentMoniker": "C:\\Users\\anacl\\Downloads\\ProgWeb\\EstruturaRep\\Fibonacci.cs",
-              "RelativeDocumentMoniker": "Fibonacci.cs",
-              "ToolTip": "C:\\Users\\anacl\\Downloads\\ProgWeb\\EstruturaRep\\Fibonacci.cs",
-              "RelativeToolTip": "Fibonacci.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAADgvzsAAAAAAAAAAAAAAA==",
+              "Title": "textoVertical.cs",
+              "DocumentMoniker": "D:\\suhr etecvav\\2 ano\\DS\\EstruturaRep\\textoVertical.cs",
+              "RelativeDocumentMoniker": "textoVertical.cs",
+              "ToolTip": "D:\\suhr etecvav\\2 ano\\DS\\EstruturaRep\\textoVertical.cs",
+              "RelativeToolTip": "textoVertical.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-27T22:20:55.682Z",
+              "WhenOpened": "2026-06-08T16:18:19.404Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Tabuada.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\anacl\\Downloads\\ProgWeb\\EstruturaRep\\Tabuada.cs",
-              "RelativeDocumentMoniker": "Tabuada.cs",
-              "ToolTip": "C:\\Users\\anacl\\Downloads\\ProgWeb\\EstruturaRep\\Tabuada.cs [Design]",
-              "RelativeToolTip": "Tabuada.cs [Design]",
+              "Title": "textoVertical.cs [Design]",
+              "DocumentMoniker": "D:\\suhr etecvav\\2 ano\\DS\\EstruturaRep\\textoVertical.cs",
+              "RelativeDocumentMoniker": "textoVertical.cs",
+              "ToolTip": "D:\\suhr etecvav\\2 ano\\DS\\EstruturaRep\\textoVertical.cs [Design]",
+              "RelativeToolTip": "textoVertical.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-26T13:49:27.905Z",
+              "WhenOpened": "2026-06-08T16:17:35.807Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Tabuada.cs",
-              "DocumentMoniker": "C:\\Users\\anacl\\Downloads\\ProgWeb\\EstruturaRep\\Tabuada.cs",
-              "RelativeDocumentMoniker": "Tabuada.cs",
-              "ToolTip": "C:\\Users\\anacl\\Downloads\\ProgWeb\\EstruturaRep\\Tabuada.cs",
-              "RelativeToolTip": "Tabuada.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAMwCgAAAAAAAAAAAAAAA==",
+              "Title": "Fatorial.cs",
+              "DocumentMoniker": "D:\\suhr etecvav\\2 ano\\DS\\EstruturaRep\\Fatorial.cs",
+              "RelativeDocumentMoniker": "Fatorial.cs",
+              "ToolTip": "D:\\suhr etecvav\\2 ano\\DS\\EstruturaRep\\Fatorial.cs",
+              "RelativeToolTip": "Fatorial.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAswBIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-26T14:34:59.368Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Fibonacci.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\anacl\\Downloads\\ProgWeb\\EstruturaRep\\Fibonacci.cs",
-              "RelativeDocumentMoniker": "Fibonacci.cs",
-              "ToolTip": "C:\\Users\\anacl\\Downloads\\ProgWeb\\EstruturaRep\\Fibonacci.cs [Design]",
-              "RelativeToolTip": "Fibonacci.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-28T00:22:02.785Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Intervalo.cs",
-              "DocumentMoniker": "C:\\Users\\anacl\\Downloads\\ProgWeb\\EstruturaRep\\Intervalo.cs",
-              "RelativeDocumentMoniker": "Intervalo.cs",
-              "ToolTip": "C:\\Users\\anacl\\Downloads\\ProgWeb\\EstruturaRep\\Intervalo.cs",
-              "RelativeToolTip": "Intervalo.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwB8AAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-27T23:12:33.778Z",
+              "WhenOpened": "2026-06-08T16:15:15.602Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Tabuada.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\anacl\\Downloads\\ProgWeb\\EstruturaRep\\Tabuada.Designer.cs",
-              "RelativeDocumentMoniker": "Tabuada.Designer.cs",
-              "ToolTip": "C:\\Users\\anacl\\Downloads\\ProgWeb\\EstruturaRep\\Tabuada.Designer.cs",
-              "RelativeToolTip": "Tabuada.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Fatorial.cs [Design]",
+              "DocumentMoniker": "D:\\suhr etecvav\\2 ano\\DS\\EstruturaRep\\Fatorial.cs",
+              "RelativeDocumentMoniker": "Fatorial.cs",
+              "ToolTip": "D:\\suhr etecvav\\2 ano\\DS\\EstruturaRep\\Fatorial.cs [Design]",
+              "RelativeToolTip": "Fatorial.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-28T01:08:44.067Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Listagem,cs.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\anacl\\Downloads\\ProgWeb\\EstruturaRep\\Listagem,cs.cs",
-              "RelativeDocumentMoniker": "Listagem,cs.cs",
-              "ToolTip": "C:\\Users\\anacl\\Downloads\\ProgWeb\\EstruturaRep\\Listagem,cs.cs [Design]",
-              "RelativeToolTip": "Listagem,cs.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-26T14:10:19.398Z",
+              "WhenOpened": "2026-06-08T16:15:11.399Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Fatorial.cs",
-              "DocumentMoniker": "C:\\Users\\anacl\\Downloads\\ProgWeb\\EstruturaRep\\Fatorial.cs",
-              "RelativeDocumentMoniker": "Fatorial.cs",
-              "ToolTip": "C:\\Users\\anacl\\Downloads\\ProgWeb\\EstruturaRep\\Fatorial.cs",
-              "RelativeToolTip": "Fatorial.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAMwBgAAAAMAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "Email.cs",
+              "DocumentMoniker": "D:\\suhr etecvav\\2 ano\\DS\\EstruturaRep\\Email.cs",
+              "RelativeDocumentMoniker": "Email.cs",
+              "ToolTip": "D:\\suhr etecvav\\2 ano\\DS\\EstruturaRep\\Email.cs",
+              "RelativeToolTip": "Email.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAYwBgAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-26T15:19:07.134Z",
+              "WhenOpened": "2026-06-08T16:11:38.394Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Email.cs [Design]",
+              "DocumentMoniker": "D:\\suhr etecvav\\2 ano\\DS\\EstruturaRep\\Email.cs",
+              "RelativeDocumentMoniker": "Email.cs",
+              "ToolTip": "D:\\suhr etecvav\\2 ano\\DS\\EstruturaRep\\Email.cs [Design]",
+              "RelativeToolTip": "Email.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T16:01:44.517Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

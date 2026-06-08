@@ -27,3 +27,19 @@ C:\Users\anacl\Downloads\ProgWeb\EstruturaRep\obj\Debug\EstruturaRep.pdb
 C:\Users\anacl\Downloads\ProgWeb\EstruturaRep\bin\Debug\EstruturaRep.exe.config
 C:\Users\anacl\Downloads\ProgWeb\EstruturaRep\bin\Debug\EstruturaRep.exe
 C:\Users\anacl\Downloads\ProgWeb\EstruturaRep\bin\Debug\EstruturaRep.pdb
+D:\suhr etecvav\2 ano\DS\EstruturaRep\bin\Debug\EstruturaRep.exe.config
+D:\suhr etecvav\2 ano\DS\EstruturaRep\bin\Debug\EstruturaRep.exe
+D:\suhr etecvav\2 ano\DS\EstruturaRep\bin\Debug\EstruturaRep.pdb
+D:\suhr etecvav\2 ano\DS\EstruturaRep\obj\Debug\EstruturaRep.csproj.AssemblyReference.cache
+D:\suhr etecvav\2 ano\DS\EstruturaRep\obj\Debug\EstruturaRep.exe.config
+D:\suhr etecvav\2 ano\DS\EstruturaRep\obj\Debug\EstruturaRep.Fatorial.resources
+D:\suhr etecvav\2 ano\DS\EstruturaRep\obj\Debug\EstruturaRep.Fibonacci.resources
+D:\suhr etecvav\2 ano\DS\EstruturaRep\obj\Debug\EstruturaRep.Intervalo.resources
+D:\suhr etecvav\2 ano\DS\EstruturaRep\obj\Debug\EstruturaRep.Listagem_cs.resources
+D:\suhr etecvav\2 ano\DS\EstruturaRep\obj\Debug\EstruturaRep.sobre.resources
+D:\suhr etecvav\2 ano\DS\EstruturaRep\obj\Debug\EstruturaRep.Tabuada.resources
+D:\suhr etecvav\2 ano\DS\EstruturaRep\obj\Debug\EstruturaRep.Properties.Resources.resources
+D:\suhr etecvav\2 ano\DS\EstruturaRep\obj\Debug\EstruturaRep.csproj.GenerateResource.cache
+D:\suhr etecvav\2 ano\DS\EstruturaRep\obj\Debug\EstruturaRep.csproj.CoreCompileInputs.cache
+D:\suhr etecvav\2 ano\DS\EstruturaRep\obj\Debug\EstruturaRep.exe
+D:\suhr etecvav\2 ano\DS\EstruturaRep\obj\Debug\EstruturaRep.pdb

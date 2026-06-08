@@ -71,6 +71,12 @@ namespace EstruturaRep
             comboBox1.Items.Clear();
         }
 
+        private void sobreToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            sobre sobre = new sobre();
+            sobre.Show();
+        }
+
         private void tabuadaToolStripMenuItem_Click(object sender, EventArgs e)
         {
             Tabuada tela1 = new Tabuada();
