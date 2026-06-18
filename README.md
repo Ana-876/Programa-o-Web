@@ -1,3 +1,5 @@
-# ProgWeb (˶˃ ᵕ ˂˶)
+# Atividades em dupla (˶˃ ᵕ ˂˶)
 
-Aqui tem todas as atividades de Programação Web!
+Aqui tem algumas atividades do técnico em dupla: <br>
+Ana Clara Soares da Silva Lima <br>
+Henrique Suhr <br>
